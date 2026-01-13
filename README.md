@@ -38,3 +38,35 @@ This project is designed primarily for **students and beginners in C programming
 2. Clone the repository or download the source file.  
 3. Compile the program:
 
+
+## Usage
+
+Run the compiled executable:
+
+Follow the on-screen menu to:
+- Book a flight ticket  
+- Enter passenger information  
+- Select payment method  
+- Cancel an existing reservation  
+
+All booking information is stored locally in a file created by the program.
+
+## Project Structure
+
+
+## Future Improvements
+
+- Add user authentication (login system)  
+- Improve input validation and error handling  
+- Display all booked tickets  
+- Add admin features for managing flights  
+- Refactor into a modular, multi-file structure  
+- Add a graphical user interface (GUI)  
+
+## License
+
+This project is open-source and intended for educational use.  
+You are free to modify and extend it for learning or academic purposes.
+
+
+
